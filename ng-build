@@ -4,9 +4,9 @@
 # "outputPath": "dist",
 # The Github setting for pages should choose the gh-pages branch.
 # npm install -g angular-cli-ghpages
-ng build --base-href "https://davidgma.github.io/google-sheets-demo/"
+ng build --base-href "https://davidgma.github.io/google-drive-demo/"
 git add *
 git commit -a -m "Upload changes."
 git push
 ngh
-# Website https://davidgma.github.io/google-sheets-demo
+# Website https://davidgma.github.io/google-drive-demo
