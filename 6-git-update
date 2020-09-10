@@ -26,3 +26,7 @@ git commit -a -m "${message}"
 git push origin gh-pages
 
 git checkout master
+
+# to update all versions:
+# npx npm-check-updates -u
+# https://www.carlrippon.com/upgrading-npm-dependencies/
